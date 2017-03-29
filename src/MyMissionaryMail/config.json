@@ -1,0 +1,10 @@
+{
+  "ApplicationInsights": {
+    "InstrumentationKey": "33647523-e04f-4c21-9ab3-64cd581c8e85"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\v11.0;Database=MyMissionaryMail;Integrated Security=SSPI;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
